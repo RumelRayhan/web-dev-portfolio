@@ -133,3 +133,40 @@ main section{
     border-radius: 5px;
     box-shadow: 0px 6px 50px 0px rgba(0,0,0,0.09);
 }
+
+
+/* resume section */
+.section-title{
+    display: flex;
+    justify-content: center;
+}
+.resume-cotainer{
+    display: flex;
+    gap: 24px;
+}
+.resume-column-title, .resume-experince-title{
+    color: #474747;
+    font-size: 30px;
+}
+.education-title, .experince-title{
+    color: #474747;
+    font-size: 25px;
+}
+.education-sub-title, .experince-sub-title{
+    color: #757575;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.education-description, .experince-description{
+    color: #757575;
+    font-size: 16px;
+}
+.resume hr{
+    margin: 30px 5px;
+}
+.resume-download-cv{
+    margin-top: 50px;
+}
+/* .experince-description{
+    color: #757575;
+} */
