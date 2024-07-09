@@ -26,6 +26,9 @@
 .dark-2{
     color: #474747;
 }
+.dark-2:hover{
+    color: #FD6E0A;
+}
 .btn-primary{
     color: #FFFFFF;
     background-color: #FD6E0A;
